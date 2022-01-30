@@ -1,0 +1,24 @@
+/*!
+* Flexon
+* 
+* Copyright (c) 2018-Present Syed Kazmi
+* 
+* Version: 22.1.0
+* License: Open Software License 3.0 (OSL-3.0) 
+* Author: Syed Kazmi <activeq.framework@gmail.com>
+* Repository: https://github.com/ActiveQuery/Flexon
+* 
+* https://ActiveQuery.github.io 
+*
+* This software, is released under Terms & Conditions of Open Software License version 3.0 
+* (the 'License'). You should have received a copy of the License along with this source file, if 
+* not then please visit any of the below links for further details regarding specific language 
+* governing permissions and limitations;
+*  
+* https://github.com/ActiveQuery/Flexon/blob/main/LICENSE.txt 
+* http://opensource.org/licenses/osl-3.0.php
+* 
+* This copyright notice/header must remain intact with this source file.
+* 
+*/
+.as-flexon,.as-flexon-initial,.as-flexon-wrap,.as-flexon-nowrap,.as-flexon-column,.as-flexon-column-reverse,.as-flexon-row,.as-flexon-row-reverse,.as-flexon-row-nowrap,.as-flexon-row-wrap,.as-flexon-row-reverse-wrap,.as-flexon-row-reverse-nowrap,.as-flexon-row-reverse-wrap,.as-flexon-row-wrap-rev,.as-flexon-row-reverse-wrap-rev,.as-flexon-column-nowrap,.as-flexon-column-wrap,.as-flexon-column-reverse-wrap,.as-flexon-column-reverse-nowrap,.as-flexon-column-reverse-wrap,.as-flexon-column-wrap-rev,.as-flexon-column-reverse-wrap-rev{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;}.as-flexon-initial{flex-direction:initial;}.as-flexon-wrap{flex-wrap:wrap;}.as-flexon-nowrap{flex-wrap:nowrap;}.as-flexon-row{flex-direction:row;}.as-flexon-row-reverse{flex-direction:row-reverse;}.as-flexon-row-nowrap{flex-flow:rownowrap;}.as-flexon-row-wrap{flex-flow:rowwrap;}.as-flexon-row-reverse-wrap{flex-flow:row-reversewrap;}.as-flexon-row-reverse-nowrap{flex-flow:row-reversenowrap;}.as-flexon-row-reverse-wrap{flex-flow:row-reversenowrap;}.as-flexon-row-wrap-reverse{flex-flow:rowwrap-reverse;}.as-flexon-row-reverse-wrap-reverse{flex-flow:row-reversewrap-reverse;}.as-flexon-column{flex-direction:column;}.as-flexon-column-reverse{flex-direction:column-reverse;}.as-flexon-column-nowrap{flex-flow:columnnowrap;}.as-flexon-column-wrap{flex-flow:columnwrap;}.as-flexon-column-reverse-wrap{flex-flow:column-reversewrap;}.as-flexon-column-reverse-nowrap{flex-flow:column-reversenowrap;}.as-flexon-column-reverse-wrap{flex-flow:column-reversenowrap;}.as-flexon-column-wrap-reverse{flex-flow:columnwrap-reverse;}.as-flexon-column-reverse-wrap-reverse{flex-flow:column-reversewrap-reverse;}.flexon-middle,.flexon-center{align-items:center;justify-content:center;}.flexon-center-top{align-items:flex-start;justify-content:center;}.flexon-center-bottom{align-items:flex-end;justify-content:center;}.flexon-left-center{align-items:center;justify-content:start;}.flexon-right-center{align-items:center;justify-content:end;}.flexon-right-bottom{align-items:flex-end;justify-content:end;}.flexon-left-bottom{align-items:flex-end;justify-content:start;}.flexon-right-top{align-items:flex-start;justify-content:end;}.flexon-left-top{align-items:flex-start;justify-content:start;}[class*=flexon-column].flexon-center-top{align-items:center;justify-content:start;}[class*=flexon-column].flexon-center-bottom{align-items:center;justify-content:end;}[class*=flexon-column].flexon-left-center{align-items:flex-start;justify-content:center;}[class*=flexon-column].flexon-right-center{align-items:flex-end;justify-content:center;}[class*=flexon-column].flexon-right-bottom{align-items:flex-end;justify-content:end;}[class*=flexon-column].flexon-left-bottom{align-items:flex-start;justify-content:end;}[class*=flexon-column].flexon-right-top{align-items:flex-end;justify-content:start;}[class*=flexon-column].flexon-left-top{align-items:flex-start;justify-content:start;}:not([class*=as-flexon]).flexon-stretch{flex-grow:1;}[class*=as-flexon].flexon-stretch{align-items:stretch;}.flexon-space-around{justify-content:space-around;align-content:space-around;}.flexon-space-evenly{justify-content:space-evenly;align-content:space-evenly;}.flexon-space-between{justify-content:space-between;align-content:space-between;}
